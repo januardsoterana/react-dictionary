@@ -1,0 +1,32 @@
+.Dictionary section {
+  background-color: rgb(255, 253, 253); 
+  border-radius: 6px;
+  box-shadow: 4px 10px 9px rgba(43, 43, 43, 0.8);
+  padding-top: 15px;
+  padding-bottom: 20px;
+  margin: 20px 0;
+}
+
+.Dictionary .Hint {
+  font-family: Calibri;
+  margin: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.btn .btn-success{
+  cursor: pointer;
+}
+
+.row {
+ padding-top: 10px;
+}
+
+.col-8 {
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+
+.col-3 {
+  padding-left: 50px;
+}

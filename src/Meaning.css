@@ -1,0 +1,13 @@
+.Meaning h4 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.Meaning .Def {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0px 20px;
+  text-align: center;
+}

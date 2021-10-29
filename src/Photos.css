@@ -1,0 +1,7 @@
+.Photos img {
+  margin: auto 0;
+  margin-bottom: 15px;
+  padding: 2px;
+  border-radius: 14px;
+  box-shadow: 5px 10px 12px rgba(24, 24, 24, 0.8);
+}

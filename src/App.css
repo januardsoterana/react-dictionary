@@ -1,0 +1,41 @@
+body {
+
+ background: radial-gradient(rgb(27, 73, 44), rgb(158, 241, 190), rgb(56, 113, 209));
+}
+
+
+.App h1{
+  font-family: Elephant, Book Antigua, Cambria;
+  text-align: center;
+  font-size: 38px;
+  font-weight: bolder;
+  padding: 20px;
+}
+
+.App .Question {
+  text-align: center;
+  font-size: 22px;
+  padding: 0px;
+}
+
+.App-logo.rounded-corners {
+  margin: auto;
+  margin-top: 50px;
+  display: block;
+  height: 25vmin;
+  border-radius: 14px;
+  box-shadow: 9px 12px 20px rgba(24, 24, 24, 0.8);
+  pointer-events: none;
+}
+
+.container {
+  max-width: 700px;
+  margin:  0 auto;
+}
+
+footer {
+  font-size: 13px;
+  color: darkblue;
+  text-align: center;
+  margin-bottom: 45px;
+}
